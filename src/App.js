@@ -174,7 +174,7 @@ const ContractingLanding = () => {
   };
 
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white select-none">
       {/* Header */}
       <header className="fixed w-full bg-white shadow-md z-50">
         <div className="container mx-auto px-4 py-4">
